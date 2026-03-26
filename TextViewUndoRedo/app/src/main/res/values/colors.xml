@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="outline_unselected">#66000000</color>
+    <color name="outline_selected">#FF6D00</color>
+
+    <color name="text_red">#FFD32F2F</color>
+    <color name="text_green">#FF2E7D32</color>
+    <color name="text_blue">#FF1565C0</color>
+    <color name="text_purple">#FF6A1B9A</color>
+</resources>

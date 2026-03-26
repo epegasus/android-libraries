@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TextViewUndoRedo</string>
+
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="clear_history">Clear</string>
+    <string name="change_color">Change Color</string>
+    <string name="change_typeface">Change Typeface</string>
+
+    <string name="intro_text">Undo/Redo demo (history per TextView). Tap a box to select it.</string>
+    <string name="history_info">History: 0 actions</string>
+    <string name="edit_hint">Edit the selected text, then tap `Commit Text` to add it to history.</string>
+
+    <string name="commit_text">Commit Text</string>
+
+    <string name="type_here">Type here</string>
+    <string name="target">Target</string>
+    <string name="default_text">Hi Developer</string>
+</resources>
