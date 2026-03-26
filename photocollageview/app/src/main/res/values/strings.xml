@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo Collage View Demo</string>
+
+    <string name="save">Save</string>
+    <string name="save_dialog_title">Save collage?</string>
+    <string name="save_dialog_message">Do you want to save this collage to your gallery?</string>
+    <string name="save_dialog_confirm">Save</string>
+</resources>
