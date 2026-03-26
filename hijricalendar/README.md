@@ -75,7 +75,7 @@ dependencies {
 **1. Add the view in XML** (e.g. your Activity layout):
 
 ```xml
-<com.pegasus.hijricalendar.view.HijriCalendarView
+<com.sohaib.hijricalendar.HijriCalendarView
     android:id="@+id/hijriCalendar"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
@@ -152,7 +152,7 @@ You can style day cells with drawables and colors.
 **Example:**
 
 ```xml
-<com.pegasus.hijricalendar.view.HijriCalendarView
+<com.sohaib.hijricalendar.HijriCalendarView
     android:id="@+id/hijriCalendar"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -175,9 +175,3 @@ If you omit these, the library uses Material 3 theme attributes and its default 
 
 - **`hijri-calendar`** — Android library module (the artifact you consume).
 - **`app`** — Sample app that uses the library.
-
----
-
-## License
-
-[Specify your license here, e.g. MIT, Apache 2.0.]

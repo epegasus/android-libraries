@@ -61,7 +61,7 @@
     </com.google.android.material.card.MaterialCardView>
 
     <!-- Example: customize day cell appearance via styleable attrs -->
-    <com.pegasus.hijricalendar.view.HijriCalendarView
+    <com.sohaib.hijricalendar.HijriCalendarView
         android:id="@+id/hijriCalendar"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

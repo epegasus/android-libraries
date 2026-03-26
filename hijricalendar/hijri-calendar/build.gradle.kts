@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.pegasus.hijricalendar"
+    namespace = "com.sohaib.hijricalendar"
     compileSdk = 36
 
     defaultConfig {
