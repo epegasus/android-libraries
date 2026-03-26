@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "hijricalendar"
+rootProject.name = "HijriCalendar"
 include(":app")
 include(":hijri-calendar")
