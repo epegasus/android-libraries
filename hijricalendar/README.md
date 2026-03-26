@@ -175,3 +175,9 @@ If you omit these, the library uses Material 3 theme attributes and its default 
 
 - **`hijri-calendar`** — Android library module (the artifact you consume).
 - **`app`** — Sample app that uses the library.
+
+---
+
+## ⭐ Please Support This Project
+
+If this project helped you, please give us a star on GitHub. 🙏🔥
