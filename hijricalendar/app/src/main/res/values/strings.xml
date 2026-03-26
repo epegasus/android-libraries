@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hijri Calendar</string>
+
+    <!-- Titles -->
+    <string name="title_islamic_calendar">Islamic Calendar</string>
+
+    <!-- Toolbar actions -->
+    <string name="action_calendar_settings">Filters</string>
+</resources>
