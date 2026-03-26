@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Qibla Compass</string>
+
+    <!-- Toasts -->
+    <string name="toast_failed_to_fetch_location">Failed to fetch location</string>
+    <string name="toast_permission_denied">Permission denied.</string>
+    <string name="toast_something_went_wrong">Something went wrong! Please try again.</string>
+
+    <!-- UI -->
+    <string name="refresh">Refresh</string>
+    <string name="sensor_not_supported_body">Your device does not have the necessary sensors to use this feature.</string>
+
+</resources>
