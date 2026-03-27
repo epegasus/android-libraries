@@ -16,8 +16,13 @@ Android sample showing a vertical, reels-style video feed using `ViewPager2` + `
 - AndroidX Media3 ExoPlayer + UI
 
 ## Demo Assets
-- Screenshot: `screenshots/img_player.png`
-- Video: `screenshots/vid_swipe_exo_player.mp4`
+Scrolling Experience
+
+<img src="screenshots/img_player.png" width="300"/>
+
+Video Playback
+ 
+ https://github.com/user-attachments/assets/ab7144da-9d9e-4cd2-aa5b-88713379d5cc
 
 ## Project Structure
 ```text
