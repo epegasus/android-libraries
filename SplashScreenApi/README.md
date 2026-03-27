@@ -16,8 +16,6 @@ https://github.com/user-attachments/assets/8853d2dd-70c7-4aa4-8023-517b9512920f
 https://github.com/user-attachments/assets/89fbad64-75e4-459d-bce2-fbd438240fe1
 
 
-
-
 ## Mechanism
 1. The app icon must be a vector drawable. It can be static or animated. Google recommends not to exceed 1000 ms for animated ones.
 2. The icon background is optional.
@@ -32,8 +30,8 @@ The splash screen icon uses the same specifications as adaptive icons, as follow
 
 Example: If the full size of the image is 300 dp x 300 dp, the icon needs to fit within a circle with a diameter of 200 dp. Everything outside the circle will be invisible (masked).
 
-![Export Splash Logos](https://github.com/user-attachments/assets/937175d3-59fd-4a4e-9762-68ed2178261d)
-![splash_branding](https://github.com/user-attachments/assets/06c8aca9-4e52-45a2-9174-f965e6a809ba)
+![Export Splash Logos](screenshots/splash_logos.PNG)
+![splash_branding](screenshots/splash_branding.PNG)
 
 
 ## Splash Screen Animation Requirements
