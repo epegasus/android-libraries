@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KleanBot</string>
+    <string name="talking_clean_ai">Talking Clean AI 🤖</string>
+
+
+    <string name="toast_no_result_found">No Result found</string>
+    <string name="toast_no_internet_connection">No internet connection</string>
+    <string name="toast_something_went_wrong">Something went wrong, Try again later</string>
+    <string name="toast_please_enter_text_before_searching">Please enter text before searching</string>
+
+
+    <string name="ask_me_anything">Ask me anything 🤔</string>
+    <string name="ai_chat_dummy_one">Need answers with a twist? I’ve got you covered.\n(Just type your question!)</string>
+    <string name="ai_chat_dummy_two">From essays to epic stories, I can generate all kinds of text.\n(Articles, reports, and beyond!)</string>
+    <string name="ai_chat_dummy_three">Let’s have a chat.\n(I respond just like a real human would!)</string>
+    <string name="how_can_i_help_you">What can I do for you today? 🤖</string>
+    <string name="ai_chat_error_message">Oops! 🙈 Looks like I need a quick recharge. Try again in a bit and we’ll pick up where we left off! 💬</string>
+    <string name="remove_limit">Unlock Limit 🚀</string>
+
+</resources>
