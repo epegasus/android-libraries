@@ -20,7 +20,7 @@ A reusable Android library that provides an Instagram-like **story viewer** as a
 
 ## Screenshot
 
-![Screen_recording_20250905_110504](https://github.com/user-attachments/assets/d6341e8d-740f-45f8-921a-e8992cbba482)
+![Screen_recording](https://github.com/user-attachments/assets/d6341e8d-740f-45f8-921a-e8992cbba482)
 
 ---
 
