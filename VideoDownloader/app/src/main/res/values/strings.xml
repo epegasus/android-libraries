@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Download Manager</string>
+
+    <!-- Toast -->
+    <string name="starting_download">Starting Download…</string>
+    <string name="nothing_to_paste">Nothing to paste</string>
+    <string name="invalid_url">Invalid Url</string>
+
+
+    <string name="home">Home</string>
+    <string name="downloads">Downloads</string>
+
+    <string name="enter_url_here">Enter URL here!</string>
+    <string name="paste_link">Paste Link</string>
+    <string name="start_download">Start Download</string>
+</resources>

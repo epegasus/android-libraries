@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/imageThumbnail"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img_dummy" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Video Title"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:paddingStart="8dp"
+        android:layout_marginTop="4dp"/>
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Downloading..."
+        android:textSize="14sp"
+        android:paddingStart="8dp"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:progress="50"
+        android:max="100"
+        android:layout_marginTop="4dp"/>
+
+    <TextView
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="50%"
+        android:textSize="14sp"
+        android:paddingStart="8dp"/>
+
+    <TextView
+        android:id="@+id/downloadSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Speed: 1.2 MB/s"
+        android:textSize="12sp"
+        android:paddingStart="8dp"/>
+
+    <TextView
+        android:id="@+id/fileSize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Size: 200MB / 500MB"
+        android:textSize="12sp"
+        android:paddingStart="8dp"/>
+
+</LinearLayout>
