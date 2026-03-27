@@ -108,21 +108,18 @@ LiveCameraFilters/
 └── cameraview/  # Reusable camera + filter library
 ```
 
-## Screenshots / GIFs
+## 📸 Screenshots / Videos
 
-Add preview media here:
+### Main Camera Screen
+<img src="screenshots/screenshot_1.png" width="250"/>
 
-- `docs/images/camera-preview.png` (main camera screen)
-- `docs/images/filter-cycling.gif` (switching filters in real time)
-- `docs/images/capture-result.png` (captured photo sample)
+### ▶️ Switching Filters in Realtime
+https://github.com/user-attachments/assets/d438e123-d7a0-4bdb-9132-db15ee4e4d23
 
-Markdown placeholders:
+### Captured Photo Sample
+<img src="screenshots/screenshot_2.png" width="250"/>
 
-```md
-![Camera Preview](docs/images/camera-preview.png)
-![Filter Cycling](docs/images/filter-cycling.gif)
-![Capture Result](docs/images/capture-result.png)
-```
+
 
 ## Available Filters
 
