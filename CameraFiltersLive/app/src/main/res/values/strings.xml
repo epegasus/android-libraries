@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Live Camera Filters</string>
+
+    <!-- _________________________________________________ TOASTS _________________________________________________ -->
+
+    <string name="invalid_link">Invalid Link</string>
+    <string name="image_does_not_exist">Image does not exist</string>
+
+    <!-- _______________________________________________________ Dialogs ________________________________________________________ -->
+
+    <!--ExitDialog-->
+    <string name="exit_message">Do you want to exit?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="_continue">Continue</string>
+
+    <!--MainActivity-->
+    <string name="no_flash_detected">No camera flash available</string>
+    <string name="flash_detected">Camera flash is available</string>
+
+    <!--CameraViewActivity-->
+    <string name="original">Original</string>
+
+
+</resources>

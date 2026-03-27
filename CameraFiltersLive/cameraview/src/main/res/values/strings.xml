@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cameraview_default_autofocus_marker">dev.epegasus.cameraview.markers.DefaultAutoFocusMarker</string>
+
+    <string name="cameraview_filter_none">dev.epegasus.cameraview.filter.NoFilter</string>
+    <string name="cameraview_filter_autofix">dev.epegasus.cameraview.filters.AutoFixFilter</string>
+    <string name="cameraview_filter_black_and_white">dev.epegasus.cameraview.filters.BlackAndWhiteFilter</string>
+    <string name="cameraview_filter_brightness">dev.epegasus.cameraview.filters.BrightnessFilter</string>
+    <string name="cameraview_filter_contrast">dev.epegasus.cameraview.filters.ContrastFilter</string>
+    <string name="cameraview_filter_cross_process">dev.epegasus.cameraview.filters.CrossProcessFilter</string>
+    <string name="cameraview_filter_documentary">dev.epegasus.cameraview.filters.DocumentaryFilter</string>
+    <string name="cameraview_filter_duotone">dev.epegasus.cameraview.filters.DuotoneFilter</string>
+    <string name="cameraview_filter_fill_light">dev.epegasus.cameraview.filters.FillLightFilter</string>
+    <string name="cameraview_filter_gamma">dev.epegasus.cameraview.filters.GammaFilter</string>
+    <string name="cameraview_filter_grain">dev.epegasus.cameraview.filters.GrainFilter</string>
+    <string name="cameraview_filter_grayscale">dev.epegasus.cameraview.filters.GrayscaleFilter</string>
+    <string name="cameraview_filter_hue">dev.epegasus.cameraview.filters.HueFilter</string>
+    <string name="cameraview_filter_invert_colors">dev.epegasus.cameraview.filters.InvertColorsFilter</string>
+    <string name="cameraview_filter_lomoish">dev.epegasus.cameraview.filters.LomoishFilter</string>
+    <string name="cameraview_filter_posterize">dev.epegasus.cameraview.filters.PosterizeFilter</string>
+    <string name="cameraview_filter_saturation">dev.epegasus.cameraview.filters.SaturationFilter</string>
+    <string name="cameraview_filter_sepia">dev.epegasus.cameraview.filters.SepiaFilter</string>
+    <string name="cameraview_filter_sharpness">dev.epegasus.cameraview.filters.SharpnessFilter</string>
+    <string name="cameraview_filter_temperature">dev.epegasus.cameraview.filters.TemperatureFilter</string>
+    <string name="cameraview_filter_tint">dev.epegasus.cameraview.filters.TintFilter</string>
+    <string name="cameraview_filter_vignette">dev.epegasus.cameraview.filters.VignetteFilter</string>
+</resources>
