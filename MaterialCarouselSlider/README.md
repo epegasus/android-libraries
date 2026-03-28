@@ -4,7 +4,7 @@ Sample Android app that demonstrates a horizontal image carousel using [Material
 
 ## Screenshot
 
-![Material carousel demo](screenshots/img.png)
+<img src="screenshots/img.png" alt="Material carousel demo" width="300" />
 
 ## What it shows
 
