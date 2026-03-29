@@ -1,0 +1,44 @@
+plugins {
+    id 'com.android.library'
+}
+
+android {
+    namespace 'com.sohaib.camerax'
+    compileSdk 36
+
+    defaultConfig {
+        minSdk 24
+        targetSdk 36
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'androidx.core:core-ktx:1.18.0'
+    implementation 'androidx.appcompat:appcompat:1.7.1'
+    implementation 'com.google.android.material:material:1.13.0'
+
+    // CameraX
+    implementation 'androidx.camera:camera-core:1.6.0'
+    // link UI's lifecycle with camera-x (It will handle by itself)
+    implementation 'androidx.camera:camera-lifecycle:1.6.0'
+    // Get camera-x's previewView
+    implementation 'androidx.camera:camera-view:1.6.0'
+    // For bokeh & else
+    implementation 'androidx.camera:camera-extensions:1.6.0'
+    // Added for choosing best quality Camera Selection
+    implementation 'androidx.camera:camera-camera2:1.6.0'
+
+    // Exif Rotation
+    implementation 'androidx.exifinterface:exifinterface:1.4.2'
+}
