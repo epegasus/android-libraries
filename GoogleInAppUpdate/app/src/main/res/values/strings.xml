@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google InApp Update</string>
+
+    <string name="initializing">Initializing…</string>
+</resources>
