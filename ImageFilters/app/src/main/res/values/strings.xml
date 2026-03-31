@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Image Filters</string>
+    <string name="export">Export</string>
+    <string name="single_filter">Single Filter</string>
+    <string name="multiple_filters">Multiple Filters</string>
+</resources>
