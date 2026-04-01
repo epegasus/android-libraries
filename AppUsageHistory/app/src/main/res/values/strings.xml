@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Usage History</string>
+
+    <string name="request_permission">Request permission</string>
+    <string name="fetch_date">Fetch Data</string>
+    <string name="tab_usage_events">Usage Events</string>
+    <string name="tab_installed_apps">Installed Apps</string>
+</resources>
