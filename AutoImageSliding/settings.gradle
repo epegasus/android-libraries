@@ -19,4 +19,3 @@ dependencyResolutionManagement {
 rootProject.name = "AutoImageScroller"
 include ':app'
 include ':autoimagescroller'
-project(':autoimagescroller').projectDir = file('imageslider')
