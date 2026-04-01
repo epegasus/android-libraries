@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Analog Live Wallpaper</string>
+    <string name="start_service">Start Service</string>
+</resources>
