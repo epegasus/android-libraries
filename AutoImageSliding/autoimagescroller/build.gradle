@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.sohaib.autoimagescroller'
+    namespace 'com.sohaib.imagescroller'
     compileSdk 36
 
     defaultConfig {

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.sohaib.autoimagescroller.demo'
+    namespace 'com.sohaib.imagescroller.demo'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.sohaib.autoimagescroller.demo"
+        applicationId "com.sohaib.imagescroller.demo"
         minSdk 24
         targetSdk 36
         versionCode 1

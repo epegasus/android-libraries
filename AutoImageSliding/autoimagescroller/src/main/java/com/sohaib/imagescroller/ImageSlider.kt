@@ -1,4 +1,4 @@
-package com.sohaib.imageslider
+package com.sohaib.imagescroller
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -13,8 +13,7 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener
 import androidx.core.content.ContextCompat
 import androidx.core.graphics.createBitmap
 import androidx.core.graphics.scale
-import com.sohaib.autoimagescroller.R
-import com.sohaib.imageslider.interfaces.BitmapLoader
+import com.sohaib.imagescroller.interfaces.BitmapLoader
 import java.util.Random
 import kotlin.math.abs
 
@@ -97,7 +96,7 @@ class AutoImageScroller(context: Context, attrs: AttributeSet?) : View(context, 
                                 }
                                 val bitmap: Bitmap? = bitmapLoader.loadDrawable(getContext(), typedArray.getResourceId(i, 0))
                                 bitmap?.let { bmp ->
-                                    (0 until multiplier).forEach {
+                                    repeat((0 until multiplier).count()) {
                                         val scaledBitmap = scaleBitmap(bmp, height)
                                         (bitmaps as ArrayList<Bitmap>).add(scaledBitmap)
                                     }

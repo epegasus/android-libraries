@@ -11,7 +11,7 @@
         android:theme="@style/Theme.AutoImageScroller"
         tools:ignore="MissingApplicationIcon">
         <activity
-            android:name="com.sohaib.imagesliding.demo.MainActivity"
+            android:name="com.sohaib.imagescroller.demo.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

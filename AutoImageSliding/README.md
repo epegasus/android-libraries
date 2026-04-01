@@ -7,7 +7,7 @@ It can be used for animated backdrops, hero sections, or looping scenic banners 
 ## Modules
 
 - `:app` - Demo application
-- `:autoimagescroller` - Library module (mapped to `imageslider/` directory)
+- `:autoimagescroller` - Library module
 
 ## Features
 
@@ -22,7 +22,7 @@ It can be used for animated backdrops, hero sections, or looping scenic banners 
 Add the view to your layout:
 
 ```xml
-<com.sohaib.autoimagescroller.AutoImageScroller
+<com.sohaib.imagescroller.AutoImageScroller
     android:id="@+id/scrolling_background"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

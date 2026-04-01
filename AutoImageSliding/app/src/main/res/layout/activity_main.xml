@@ -4,9 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.sohaib.imagesliding.demo.MainActivity">
+    tools:context="com.sohaib.imagescroller.demo.MainActivity">
 
-    <com.sohaib.autoimagescroller.AutoImageScroller
+    <com.sohaib.imagescroller.AutoImageScroller
         android:id="@+id/scrolling_background"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

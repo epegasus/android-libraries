@@ -1,8 +1,8 @@
-package com.sohaib.imagesliding.demo
+package com.sohaib.imagescroller.demo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.sohaib.autoimagescroller.demo.databinding.ActivityMainBinding
+import com.sohaib.imagescroller.demo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

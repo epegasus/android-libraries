@@ -1,4 +1,4 @@
-package com.sohaib.imageslider.interfaces
+package com.sohaib.imagescroller.interfaces
 
 import android.content.Context
 import android.graphics.Bitmap
