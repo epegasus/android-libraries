@@ -1,2 +1,3 @@
-# ePegasus-Analogue-Live-Wallpaper
-Clock Live Wallpaper (Analogue Service)
+# Analogue-Live-Wallpaper
+
+Clock Live Wallpaper (Analog Service)
