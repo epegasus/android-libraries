@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drag and drop</string>
+    <string name="long_press_any_of_the_following_view_to_enable_drag_amp_drop"><![CDATA[Long Press any of the following view, to enable drag & Drop]]></string>
+</resources>
