@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pdf Maker</string>
+
+    <string name="main_title">Pdf Maker</string>
+    <string name="main_subtitle">Turn photos or Word files into PDFs. Files are saved on your device.</string>
+    <string name="output_location_hint">Saved under Downloads → Pdf Maker</string>
+
+    <string name="generate_pdf_images">Images to PDF</string>
+    <string name="generate_pdf_word">Word to PDF</string>
+
+    <string name="status_idle">Idle</string>
+    <string name="status_ready_modern_storage">Ready — PDFs save to Downloads/Pdf Maker</string>
+    <string name="status_storage_granted">Storage access granted — you can convert files</string>
+    <string name="status_storage_required_tap_action">On this Android version, allow storage when prompted so PDFs can be saved to Downloads</string>
+    <string name="status_need_storage_permission">Allow storage access to save PDFs to Downloads</string>
+    <string name="status_permission_denied">Storage permission denied — PDFs cannot be saved on this Android version</string>
+    <string name="status_no_images_selected">No images selected</string>
+    <string name="status_no_document_selected">No document selected</string>
+    <string name="status_converting_images">Building PDF from images…</string>
+    <string name="status_converting_word">Converting Word document…</string>
+    <string name="status_success_images">Done — image PDF:\n%1$s</string>
+    <string name="status_success_word">Done — document PDF:\n%1$s</string>
+    <string name="status_error">Something went wrong:\n%1$s</string>
+    <string name="toast_saved">Saved: %1$s</string>
+</resources>
