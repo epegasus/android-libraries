@@ -4,7 +4,7 @@ Drag and Drop any object from one view to another.
 ## 📱 Demo
 
 <p align="center">
-  <img src="screenshots/screenshot.png" width="350"/>
+  <img src="screenshot/screenshot.png" width="350"/>
 </p>
 
 
