@@ -29,11 +29,11 @@ Create/replace these files in `screenshots/`:
 
 ### App Screenshot
 
-![Home Screen](screenshots/home-screen.png)
+<img src="screenshots/home-screen.png" alt="Home Screen" style="max-width: 350px; width: 100%;" />
 
 ### Demo GIF
 
-![Demo](screenshots/demo.gif)
+<img src="screenshots/demo.gif" alt="Demo" style="max-width: 350px; width: 100%;" />
 
 ## Run
 
