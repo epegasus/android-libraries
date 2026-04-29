@@ -1,6 +1,5 @@
 package com.sohaib.prayernotification.data
 
-import android.util.Log
 import com.orbitalsonic.sonicopt.PrayerTimeManager
 import com.orbitalsonic.sonicopt.enums.AsrJuristicMethod
 import com.orbitalsonic.sonicopt.enums.HighLatitudeAdjustment
